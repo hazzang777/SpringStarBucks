@@ -1,7 +1,7 @@
-# ⚰ SpringStarBucks
+# ☕️ SpringStarBucks
 Spring Boot를 이용한 커피 가게 구현하기 토이프로젝트
 
-## Goals
+## 🧱 Goals
 1. `확장성`있는 설계 및 구현
 2. `TDD`로 구현
 3. 최대한 `클린코드`하게 구현
@@ -9,7 +9,7 @@ Spring Boot를 이용한 커피 가게 구현하기 토이프로젝트
 ## 🎇 Tech
 <img src="https://img.shields.io/badge/Java-003366?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"><img src="https://img.shields.io/badge/JPA-ED2762?style=for-the-badge&logo=Databricks&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 
-## Material
+## 🍀 Info
 ### 𝌭 도메인 모델
 
 ![Untitled](https://user-images.githubusercontent.com/68279162/175776120-d584800a-7f7e-401c-9737-0390a15e3db4.png)
