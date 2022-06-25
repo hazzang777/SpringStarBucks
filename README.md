@@ -7,10 +7,7 @@ Spring Boot를 이용한 커피 가게 구현하기 토이프로젝트
 3. 최대한 `클린코드`하게 구현
 
 ## 🎇 Tech
-<img src="https://img.shields.io/badge/Java-003366?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-ED2762?style=for-the-badge&logo=Databricks&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
+<img src="https://img.shields.io/badge/Java-003366?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"><img src="https://img.shields.io/badge/JPA-ED2762?style=for-the-badge&logo=Databricks&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 
 ## Material
 ### 𝌭 도메인 모델
